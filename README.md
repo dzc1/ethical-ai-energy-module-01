@@ -155,7 +155,7 @@ By working through the modules, students will gain a strong foundation in AI con
 
 Educators are encouraged to guide students through this content with an emphasis on hands-on learning, ethical reflection, and real-world applications.
 
-I hope you find this course engaging, informative, and a valuable resource for understanding AI's transformative potential in the energy industry!
+I hope you find this module engaging, informative, and a valuable resource for understanding AI's transformative potential in the energy industry!
 
 Best,
 
